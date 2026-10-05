@@ -8,11 +8,13 @@ The central problem is to open a face into ribs and cavities without losing the 
 
 The evidence includes Houdini networks, clay views, liquid-contact experiments, rough viewport captures and finished motion. The site’s head asset mapping connects the newer named page to the earlier MetalMask imagery. Related liquid tests remain identified by their original source names in the [manifest](docs/media-manifest.json).
 
-## Supplied structural reference
+## Inspiration / bone-like structure
 
-![Porous structural reference sheet](media/images/reference-porous-structure.jpg)
+![Bone-like structural diagram with vector traces and a porous shell](media/images/reference-porous-structure.jpg)
 
-The added reference sheet compares a dark web-like structure with a pale perforated form. It offers a visual comparison for open ribs and solid bridges. Its creator and relationship to production are not established by the file, so it is identified as supplied reference imagery, not a project result.
+*Bone-like structural reference: thin connecting ribs, rounded cavities and denser bridges preserve a continuous form while opening its surface. The sheet pairs a dark strand diagram with a pale porous shell and labels principal stress vectors. Source: supplied file `c7334632abbf40ce4c7e9c8b8be9a52b.jpg`; original creator and publication remain unresolved.*
+
+This is an inspiration for the head’s skeletal, porous construction, as identified by the artist. It is a diagram/render, not a photograph of a bone or a MetalMask result. Its labels do not establish that the head used the same structural-analysis or growth method. [Reference provenance](docs/references.md).
 
 ## Earlier construction and lighting studies
 

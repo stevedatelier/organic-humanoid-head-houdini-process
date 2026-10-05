@@ -46,3 +46,7 @@ H.264, yuv420p, fast-start MP4; source aspect ratio retained, up to 1920 Ã— 1
 ## Added imagery
 
 The source folders were re-inspected after 35 files were added. Earlier head shell/lighting captures were assigned to the combined head repository by subject, despite being placed in the Fireborn source folder. Foundry and structural reference images are clearly labeled as supplied references; they are not represented as original project renders. The foundry-concept filename labels that reference as AI-generated.
+
+## Artist-identified inspiration update
+
+The supplied references are now captioned as artist-identified inspiration, with [source records and attribution status](references.md). Unverified authorship remains explicitly marked.

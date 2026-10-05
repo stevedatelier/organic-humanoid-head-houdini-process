@@ -1,0 +1,7 @@
+*.md text eol=lf
+*.json text eol=lf
+*.mp4 binary
+*.gif binary
+*.png binary
+*.webp binary
+*.jpg binary

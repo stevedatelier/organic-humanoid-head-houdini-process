@@ -12,9 +12,9 @@ The evidence includes Houdini networks, clay views, liquid-contact experiments, 
 
 ![Bone-like structural diagram with vector traces and a porous shell](media/images/reference-porous-structure.jpg)
 
-*Bone-like structural reference: thin connecting ribs, rounded cavities and denser bridges preserve a continuous form while opening its surface. The sheet pairs a dark strand diagram with a pale porous shell and labels principal stress vectors. Source: supplied file `c7334632abbf40ce4c7e9c8b8be9a52b.jpg`; original creator and publication remain unresolved.*
+<sub>Bone-like structural diagram: connecting ribs, rounded cavities and principal-stress-vector traces. Retrieved via <a href="https://i.pinimg.com/1200x/c7/33/46/c7334632abbf40ce4c7e9c8b8be9a52b.jpg">Pinterest</a>; original designer and publication unverified.</sub>
 
-This is an inspiration for the head’s skeletal, porous construction, as identified by the artist. It is a diagram/render, not a photograph of a bone or a MetalMask result. Its labels do not establish that the head used the same structural-analysis or growth method. [Reference provenance](docs/references.md).
+<sub>This is an inspiration for the head’s skeletal, porous construction, as identified by the artist. It is a diagram/render, not a photograph of a bone or a MetalMask result. Its labels do not establish that the head used the same structural-analysis or growth method. [Reference provenance](docs/references.md).</sub>
 
 ## Earlier construction and lighting studies
 
@@ -22,51 +22,51 @@ This is an inspiration for the head’s skeletal, porous construction, as identi
 ![Shell comparison inside Houdini](media/images/houdini-shell-comparison.webp)
 ![Pale solid-shell inspection](media/images/houdini-solid-shell.webp)
 
-The added captures reveal a more open rib structure beside a denser surface treatment. The large eye opening and thin connections are exposed before the later fine-pore studies. The Houdini screenshots preserve the working context; the images support a comparison of construction states, without proving that one was generated directly from the other.
+<sub>The added captures reveal a more open rib structure beside a denser surface treatment. The large eye opening and thin connections are exposed before the later fine-pore studies. The Houdini screenshots preserve the working context; the images support a comparison of construction states, without proving that one was generated directly from the other.</sub>
 
 ![Early edge-light test](media/images/edge-light-test-1.webp)
 ![Second edge-light test](media/images/edge-light-test-2.webp)
 
-The two dark tests make only a fragment of the ribs visible. They show the tension carried into the final treatment: enough highlight to recognize the structure, enough shadow to conceal it.
+<sub>The two dark tests make only a fragment of the ribs visible. They show the tension carried into the final treatment: enough highlight to recognize the structure, enough shadow to conceal it.</sub>
 
 ## 01 / Building a shell that still reads as a face
 
-The selected wrangle displays `creaseweight` through red/green point color. That diagnostic makes the attribute distribution visible alongside the shell instead of judging only a shaded result.
+<sub>The selected wrangle displays `creaseweight` through red/green point color. That diagnostic makes the attribute distribution visible alongside the shell instead of judging only a shaded result.</sub>
 
 ![Assembled porous form in Houdini](media/images/houdini-volume-assembly.webp)
 ![Houdini shell viewport and network — Screenshot 2026-04-19 014613](media/images/houdini-shell-2026-04-19-014613.webp)
 
-The object-level assembly retains separate `Holes`, `SCATTER` and VDB-related objects. The visible challenge is the transition between broad facial structure and fine openings: a cavity can be attractive locally while weakening the head’s silhouette as a whole.
+<sub>The object-level assembly retains separate `Holes`, `SCATTER` and VDB-related objects. The visible challenge is the transition between broad facial structure and fine openings: a cavity can be attractive locally while weakening the head’s silhouette as a whole.</sub>
 
 ## 02 / Checking depth, thickness and openings
 
 ![Pale skull study](media/images/skull_view_1.webp)
 
-The pale skull view checks facial readability. The pale material makes this judgment possible before black reflections conceal much of the surface.
+<sub>The pale skull view checks facial readability. The pale material makes this judgment possible before black reflections conceal much of the surface.</sub>
 
-[More geometric and clay views](docs/media-index.md#images)
+<sub>[More geometric and clay views](docs/media-index.md#images)</sub>
 
 ## 03 / Liquid coating as a separate diagnostic
 
 ![Full coating experiment](media/gif/coating-viscosity-2-8.gif)
 
-The blue fluid distinguishes the moving layer from the porous collider. In the coating study, streams join over the upper shell and extend into long drips. This makes coverage, bridging across holes and remaining facial detail directly comparable.
+<sub>The blue fluid distinguishes the moving layer from the porous collider. In the coating study, streams join over the upper shell and extend into long drips. This makes coverage, bridging across holes and remaining facial detail directly comparable.</sub>
 
-[Full coating clip](media/video/coating-viscosity-2-8.mp4) · [viscous mask](media/video/viscous-mask.mp4) · [driplets](media/video/driplets.mp4) · [immersion](media/video/immersion.mp4)
+<sub>[Full coating clip](media/video/coating-viscosity-2-8.mp4) · [viscous mask](media/video/viscous-mask.mp4) · [driplets](media/video/driplets.mp4) · [immersion](media/video/immersion.mp4)</sub>
 
-The coating sequence already had a matching 136-frame movie. That movie was compressed for delivery; no second movie was generated from its JPG frames.
+<sub>The coating sequence already had a matching 136-frame movie. That movie was compressed for delivery; no second movie was generated from its JPG frames.</sub>
 
 ## 04 / Close views and surface change
 
-[Close-up 1](media/video/bubbles-closeup-1.mp4) · [close-up 3](media/video/bubbles-closeup-3.mp4)
+<sub>[Close-up 1](media/video/bubbles-closeup-1.mp4) · [close-up 3](media/video/bubbles-closeup-3.mp4)</sub>
 
 ## 05 / Rough captures and limits of review
 
-These `.pic` sequences were recovered with Houdini’s image converter. Much of the head sits outside the right edge and the grid dominates the frame. They preserve an imperfect review setup: useful evidence that the process was not only polished shots, but insufficient for judging the whole liquid surface.
+<sub>These `.pic` sequences were recovered with Houdini’s image converter. Much of the head sits outside the right edge and the grid dominates the frame. They preserve an imperfect review setup: useful evidence that the process was not only polished shots, but insufficient for judging the whole liquid surface.</sub>
 
-[Viscosity by 12](media/video/rough-viscosity-by-12.mp4) · [adhesion capture](media/video/rough-adhesion-capture.mp4) · [vorticity / droplets](media/video/rough-vorticity-droplets.mp4) · [rough playbook](media/video/rough-playbook-capture.mp4)
+<sub>[Viscosity by 12](media/video/rough-viscosity-by-12.mp4) · [adhesion capture](media/video/rough-adhesion-capture.mp4) · [vorticity / droplets](media/video/rough-vorticity-droplets.mp4) · [rough playbook](media/video/rough-playbook-capture.mp4)</sub>
 
-For clearer raw viewport comparisons: [adhesion 001](media/video/adhesion-viewport-001.mp4), [002](media/video/adhesion-viewport-002.mp4), [003](media/video/adhesion-viewport-003.mp4).
+<sub>For clearer raw viewport comparisons: [adhesion 001](media/video/adhesion-viewport-001.mp4), [002](media/video/adhesion-viewport-002.mp4), [003](media/video/adhesion-viewport-003.mp4).</sub>
 
 ## 06 / From construction to final image
 
@@ -74,11 +74,11 @@ For clearer raw viewport comparisons: [adhesion 001](media/video/adhesion-viewpo
 
 ![Dark head detail](media/images/final-detail.webp)
 
-The dark render carries the same cavities and connecting ribs with small highlights. It is deliberately less explicit than the clay studies: geometry that was inspected openly during development becomes partially concealed in the final image.
+<sub>The dark render carries the same cavities and connecting ribs with small highlights. It is deliberately less explicit than the clay studies: geometry that was inspected openly during development becomes partially concealed in the final image.</sub>
 
-[Final organic-head motion](media/video/final-organic-head.mp4) · [MetalMask portrait motion](media/video/metalmask-portrait.mp4)
+<sub>[Final organic-head motion](media/video/final-organic-head.mp4) · [MetalMask portrait motion](media/video/metalmask-portrait.mp4)</sub>
 
-The portrait clip records the related dense, glossy surface treatment shown on the MetalMask page. It is a companion presentation, not evidence that the porous-shell mesh generated that portrait.
+<sub>The portrait clip records the related dense, glossy surface treatment shown on the MetalMask page. It is a companion presentation, not evidence that the porous-shell mesh generated that portrait.</sub>
 
 ## Archive notes
 

@@ -51,34 +51,36 @@ All media below is stored in this private repository. MP4 links open the file pa
 
 | Image | Source |
 |---|---|
-| [clay-profile](../media/images/clay-profile.png) | `clay-profile.png` |
+| [clay-profile](../media/images/clay-profile.webp) | `clay-profile.png` |
 | [clay-resting-angle](../media/images/clay-resting-angle.webp) | `clay-resting-angle.png` |
 | [clay-resting-front](../media/images/clay-resting-front.webp) | `clay-resting-front.png` |
-| [clay-shell](../media/images/clay-shell.png) | `clay-shell.png` |
-| [final-detail](../media/images/final-detail.png) | `final-detail.png` |
-| [final-head](../media/images/final-head.png) | `final-head.png` |
-| [final-partial](../media/images/final-partial.png) | `final-partial.png` |
+| [clay-shell](../media/images/clay-shell.webp) | `clay-shell.png` |
+| [final-detail](../media/images/final-detail.webp) | `final-detail.png` |
+| [final-head](../media/images/final-head.webp) | `final-head.png` |
+| [final-partial](../media/images/final-partial.webp) | `final-partial.png` |
 | [form-houdini](../media/images/form-houdini.webp) | `form-houdini.png` |
 | [form-shaded](../media/images/form-shaded.webp) | `form-shaded.png` |
-| [form-viewport](../media/images/form-viewport.png) | `form-viewport.png` |
-| [geometry-front](../media/images/geometry-front.png) | `geometry-front.png` |
+| [form-viewport](../media/images/form-viewport.webp) | `form-viewport.png` |
+| [geometry-front](../media/images/geometry-front.webp) | `geometry-front.png` |
 | [geometry-profile](../media/images/geometry-profile.webp) | `geometry-profile.png` |
-| [geometry-shell](../media/images/geometry-shell.png) | `geometry-shell.png` |
+| [geometry-shell](../media/images/geometry-shell.webp) | `geometry-shell.png` |
 | [houdini-crease-weights](../media/images/houdini-crease-weights.webp) | `houdini-crease-weights.png` |
 | [houdini-volume-assembly](../media/images/houdini-volume-assembly.webp) | `houdini-volume-assembly.png` |
 | [early-shell-pair](../media/images/early-shell-pair.webp) | `Screenshot 2021-08-19 191528.png` |
 | [open-rib-study](../media/images/open-rib-study.webp) | `Screenshot 2024-07-10 192855.png` |
 | [houdini-shell-comparison](../media/images/houdini-shell-comparison.webp) | `Screenshot 2024-07-10 200120.png` |
 | [houdini-solid-shell](../media/images/houdini-solid-shell.webp) | `Screenshot 2024-07-10 200357.png` |
-| [edge-light-test-1](../media/images/edge-light-test-1.png) | `Screenshot 2024-07-10 233144.png` |
-| [edge-light-test-2](../media/images/edge-light-test-2.png) | `Screenshot 2024-07-10 234520.png` |
+| [edge-light-test-1](../media/images/edge-light-test-1.webp) | `Screenshot 2024-07-10 233144.png` |
+| [edge-light-test-2](../media/images/edge-light-test-2.webp) | `Screenshot 2024-07-10 234520.png` |
 | [reference-porous-structure](../media/images/reference-porous-structure.jpg) | `c7334632abbf40ce4c7e9c8b8be9a52b.jpg` |
 
 Exact source paths, processing details, full sequence order and checksums are recorded in [media-manifest.json](media-manifest.json).
 
 ## Added images
 
-- [houdini-shell-2026-04-19-014613](../media/images/houdini-shell-2026-04-19-014613.png)
+- [houdini-shell-2026-04-19-014613](../media/images/houdini-shell-2026-04-19-014613.webp)
 - [substance-material-2022-10-16-134815](../media/images/substance-material-2022-10-16-134815.jpg)
 
-- [skull_view_1](../media/images/skull_view_1.png)
+- [skull_view_1](../media/images/skull_view_1.webp)
+
+Image sizes and encoding decisions after optimization: [image optimization audit](image-optimization.json). Original source files are unchanged.

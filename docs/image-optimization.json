@@ -1,0 +1,242 @@
+[
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/clay-profile.png",
+    "new": "media/images/clay-profile.webp",
+    "before": 568638,
+    "after": 289666,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/clay-resting-angle.webp",
+    "new": "media/images/clay-resting-angle.webp",
+    "before": 129718,
+    "after": 129718,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/clay-resting-front.webp",
+    "new": "media/images/clay-resting-front.webp",
+    "before": 123444,
+    "after": 123444,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/clay-shell.png",
+    "new": "media/images/clay-shell.webp",
+    "before": 490142,
+    "after": 247362,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/early-shell-pair.webp",
+    "new": "media/images/early-shell-pair.webp",
+    "before": 394958,
+    "after": 394958,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/edge-light-test-1.png",
+    "new": "media/images/edge-light-test-1.webp",
+    "before": 90532,
+    "after": 36228,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/edge-light-test-2.png",
+    "new": "media/images/edge-light-test-2.webp",
+    "before": 142798,
+    "after": 68764,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/final-detail.png",
+    "new": "media/images/final-detail.webp",
+    "before": 829004,
+    "after": 416106,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/final-head.png",
+    "new": "media/images/final-head.webp",
+    "before": 224642,
+    "after": 94422,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/final-partial.png",
+    "new": "media/images/final-partial.webp",
+    "before": 158939,
+    "after": 63594,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/form-houdini.webp",
+    "new": "media/images/form-houdini.webp",
+    "before": 395586,
+    "after": 395586,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/form-shaded.webp",
+    "new": "media/images/form-shaded.webp",
+    "before": 210554,
+    "after": 210554,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/form-viewport.png",
+    "new": "media/images/form-viewport.webp",
+    "before": 801891,
+    "after": 403122,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/geometry-front.png",
+    "new": "media/images/geometry-front.webp",
+    "before": 933040,
+    "after": 590342,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/geometry-profile.webp",
+    "new": "media/images/geometry-profile.webp",
+    "before": 160656,
+    "after": 160656,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/geometry-shell.png",
+    "new": "media/images/geometry-shell.webp",
+    "before": 636763,
+    "after": 412382,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/houdini-crease-weights.webp",
+    "new": "media/images/houdini-crease-weights.webp",
+    "before": 497996,
+    "after": 497996,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/houdini-shell-2026-04-19-014613.png",
+    "new": "media/images/houdini-shell-2026-04-19-014613.webp",
+    "before": 4926060,
+    "after": 2703798,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/houdini-shell-comparison.webp",
+    "new": "media/images/houdini-shell-comparison.webp",
+    "before": 606612,
+    "after": 606612,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/houdini-solid-shell.webp",
+    "new": "media/images/houdini-solid-shell.webp",
+    "before": 631622,
+    "after": 631622,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/houdini-volume-assembly.webp",
+    "new": "media/images/houdini-volume-assembly.webp",
+    "before": 453302,
+    "after": 453302,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/open-rib-study.webp",
+    "new": "media/images/open-rib-study.webp",
+    "before": 357732,
+    "after": 357732,
+    "processing": "Existing WebP retained without recompression."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/reference-porous-structure.jpg",
+    "new": "media/images/reference-porous-structure.jpg",
+    "before": 102852,
+    "after": 102852,
+    "processing": "Original format retained: lossless WebP was larger; no quality loss introduced."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/skull_view_1.png",
+    "new": "media/images/skull_view_1.webp",
+    "before": 7497718,
+    "after": 3895756,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/images/substance-material-2022-10-16-134815.jpg",
+    "new": "media/images/substance-material-2022-10-16-134815.jpg",
+    "before": 391313,
+    "after": 391313,
+    "processing": "Original format retained: lossless WebP was larger; no quality loss introduced."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/portfolio/metalmask-comparison.png",
+    "new": "media/portfolio/metalmask-comparison.webp",
+    "before": 1690305,
+    "after": 853414,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/portfolio/metalmask-cover.png",
+    "new": "media/portfolio/metalmask-cover.webp",
+    "before": 88657,
+    "after": 23134,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/portfolio/metalmask-gallery.png",
+    "new": "media/portfolio/metalmask-gallery.webp",
+    "before": 1274637,
+    "after": 624514,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/portfolio/organic-head-cover.png",
+    "new": "media/portfolio/organic-head-cover.webp",
+    "before": 140316,
+    "after": 38088,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  },
+  {
+    "repo": "organic-humanoid-head-process",
+    "old": "media/portfolio/organic-head-gallery.png",
+    "new": "media/portfolio/organic-head-gallery.webp",
+    "before": 2194647,
+    "after": 986208,
+    "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+  }
+]

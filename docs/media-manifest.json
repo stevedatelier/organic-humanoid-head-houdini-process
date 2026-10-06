@@ -7,10 +7,10 @@
       "name": "clay-profile",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\clay-profile.png",
-      "output": "media/images/clay-profile.png",
-      "processing": "copied unchanged",
+      "output": "media/images/clay-profile.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 568638,
-      "output_bytes": 568638,
+      "output_bytes": 289666,
       "sha256": "91b6d7df5c6b6525d16094ed38d5d7f0b7e2d02e6e84d852f9257ab520203270"
     },
     {
@@ -40,10 +40,10 @@
       "name": "clay-shell",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\clay-shell.png",
-      "output": "media/images/clay-shell.png",
-      "processing": "copied unchanged",
+      "output": "media/images/clay-shell.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 490142,
-      "output_bytes": 490142,
+      "output_bytes": 247362,
       "sha256": "9ead657ea2c25e26215b8e9bd526227a931743450168e87f65123f6c6c4568f5"
     },
     {
@@ -51,10 +51,10 @@
       "name": "final-detail",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\final-detail.png",
-      "output": "media/images/final-detail.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/final-detail.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 1264327,
-      "output_bytes": 829004,
+      "output_bytes": 416106,
       "sha256": "4db7cb00339219d86ec6f86dcca1b61d5085bc7668d1fdd307f38778a0d7a205"
     },
     {
@@ -62,10 +62,10 @@
       "name": "final-head",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\final-head.png",
-      "output": "media/images/final-head.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/final-head.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 330385,
-      "output_bytes": 224642,
+      "output_bytes": 94422,
       "sha256": "5817fdf377042315f97e0661bf8689f1b5f559851b9a2f5f1b5e53fa6aab1ac7"
     },
     {
@@ -73,10 +73,10 @@
       "name": "final-partial",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\final-partial.png",
-      "output": "media/images/final-partial.png",
-      "processing": "resized to maximum 2800px, source untouched",
+      "output": "media/images/final-partial.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 234701,
-      "output_bytes": 158939,
+      "output_bytes": 63594,
       "sha256": "3ef0658e4ea46466cd0ab22bbe96f2a1cd1a7a75acbec12afac35354778ce5ce"
     },
     {
@@ -106,10 +106,10 @@
       "name": "form-viewport",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\form-viewport.png",
-      "output": "media/images/form-viewport.png",
-      "processing": "copied unchanged",
+      "output": "media/images/form-viewport.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 801891,
-      "output_bytes": 801891,
+      "output_bytes": 403122,
       "sha256": "505896987d164db19ef5c573da9dc2350c1c2fe7695b754374c7f00cd6659595"
     },
     {
@@ -117,10 +117,10 @@
       "name": "geometry-front",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\geometry-front.png",
-      "output": "media/images/geometry-front.png",
-      "processing": "copied unchanged",
+      "output": "media/images/geometry-front.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 933040,
-      "output_bytes": 933040,
+      "output_bytes": 590342,
       "sha256": "86f491df5c64d9f456171cfe1ee66f50f6fffac1eebffec50875fb5edeb03f7f"
     },
     {
@@ -139,10 +139,10 @@
       "name": "geometry-shell",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\geometry-shell.png",
-      "output": "media/images/geometry-shell.png",
-      "processing": "copied unchanged",
+      "output": "media/images/geometry-shell.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 636763,
-      "output_bytes": 636763,
+      "output_bytes": 412382,
       "sha256": "dee9895dffe008fcc711fd3507f5657d288aef750049262052f00b6fcf0e241c"
     },
     {
@@ -216,10 +216,10 @@
       "name": "edge-light-test-1",
       "kind": "image",
       "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\Screenshot 2024-07-10 233144.png",
-      "output": "media/images/edge-light-test-1.png",
-      "processing": "copied unchanged",
+      "output": "media/images/edge-light-test-1.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 90532,
-      "output_bytes": 90532,
+      "output_bytes": 36228,
       "sha256": "fea1da0f57151b6176fd77f5539e6ad2a1ef99bc8e48226f60b75175e83cde77"
     },
     {
@@ -227,10 +227,10 @@
       "name": "edge-light-test-2",
       "kind": "image",
       "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\Screenshot 2024-07-10 234520.png",
-      "output": "media/images/edge-light-test-2.png",
-      "processing": "copied unchanged",
+      "output": "media/images/edge-light-test-2.webp",
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved.",
       "source_bytes": 142798,
-      "output_bytes": 142798,
+      "output_bytes": 68764,
       "sha256": "667de35809e49dfbc6283f034c4dc1784dd5e9212d943ed34f21d252c610703f"
     },
     {
@@ -5083,10 +5083,10 @@
       "name": "houdini-shell-2026-04-19-014613",
       "kind": "image",
       "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\houdini screenshots\\Screenshot 2026-04-19 014613.png",
-      "output": "media/images/houdini-shell-2026-04-19-014613.png",
+      "output": "media/images/houdini-shell-2026-04-19-014613.webp",
       "source_bytes": 4926060,
-      "output_bytes": 4926060,
-      "processing": "Copied unchanged from specified source"
+      "output_bytes": 2703798,
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
     },
     {
       "repo": "head",
@@ -5103,10 +5103,10 @@
       "name": "skull_view_1",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Metalmask\\skull_view_1.png",
-      "output": "media/images/skull_view_1.png",
+      "output": "media/images/skull_view_1.webp",
       "source_bytes": 7497718,
-      "output_bytes": 7497718,
-      "processing": "Copied unchanged"
+      "output_bytes": 3895756,
+      "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
     }
   ]
 }

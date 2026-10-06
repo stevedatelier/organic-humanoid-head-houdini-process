@@ -24,8 +24,8 @@ This is an inspiration for the head’s skeletal, porous construction, as identi
 
 The added captures reveal a more open rib structure beside a denser surface treatment. The large eye opening and thin connections are exposed before the later fine-pore studies. The Houdini screenshots preserve the working context; the images support a comparison of construction states, without proving that one was generated directly from the other.
 
-![Early edge-light test](media/images/edge-light-test-1.png)
-![Second edge-light test](media/images/edge-light-test-2.png)
+![Early edge-light test](media/images/edge-light-test-1.webp)
+![Second edge-light test](media/images/edge-light-test-2.webp)
 
 The two dark tests make only a fragment of the ribs visible. They show the tension carried into the final treatment: enough highlight to recognize the structure, enough shadow to conceal it.
 
@@ -34,13 +34,13 @@ The two dark tests make only a fragment of the ribs visible. They show the tensi
 The selected wrangle displays `creaseweight` through red/green point color. That diagnostic makes the attribute distribution visible alongside the shell instead of judging only a shaded result.
 
 ![Assembled porous form in Houdini](media/images/houdini-volume-assembly.webp)
-![Houdini shell viewport and network — Screenshot 2026-04-19 014613](media/images/houdini-shell-2026-04-19-014613.png)
+![Houdini shell viewport and network — Screenshot 2026-04-19 014613](media/images/houdini-shell-2026-04-19-014613.webp)
 
 The object-level assembly retains separate `Holes`, `SCATTER` and VDB-related objects. The visible challenge is the transition between broad facial structure and fine openings: a cavity can be attractive locally while weakening the head’s silhouette as a whole.
 
 ## 02 / Checking depth, thickness and openings
 
-![Pale skull study](media/images/skull_view_1.png)
+![Pale skull study](media/images/skull_view_1.webp)
 
 The pale skull view checks facial readability. The pale material makes this judgment possible before black reflections conceal much of the surface.
 
@@ -72,7 +72,7 @@ For clearer raw viewport comparisons: [adhesion 001](media/video/adhesion-viewpo
 
 ![Substance material study — Screenshot 2022-10-16 134815](media/images/substance-material-2022-10-16-134815.jpg)
 
-![Dark head detail](media/images/final-detail.png)
+![Dark head detail](media/images/final-detail.webp)
 
 The dark render carries the same cavities and connecting ribs with small highlights. It is deliberately less explicit than the clay studies: geometry that was inspected openly during development becomes partially concealed in the final image.
 
@@ -88,12 +88,12 @@ The portrait clip records the related dense, glossy surface treatment shown on t
 
 ---
 
-![Portfolio — metalmask cover](media/portfolio/metalmask-cover.png)
+![Portfolio — metalmask cover](media/portfolio/metalmask-cover.webp)
 
-![Portfolio — metalmask gallery](media/portfolio/metalmask-gallery.png)
+![Portfolio — metalmask gallery](media/portfolio/metalmask-gallery.webp)
 
-![Portfolio — metalmask comparison](media/portfolio/metalmask-comparison.png)
+![Portfolio — metalmask comparison](media/portfolio/metalmask-comparison.webp)
 
-![Portfolio — organic head cover](media/portfolio/organic-head-cover.png)
+![Portfolio — organic head cover](media/portfolio/organic-head-cover.webp)
 
-![Portfolio — organic head gallery](media/portfolio/organic-head-gallery.png)
+![Portfolio — organic head gallery](media/portfolio/organic-head-gallery.webp)

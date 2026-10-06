@@ -31,22 +31,18 @@ The two dark tests make only a fragment of the ribs visible. They show the tensi
 
 ## 01 / Building a shell that still reads as a face
 
-The network capture shows VDB-from-polygons, scatter, Voronoi fracture, polywire, resampling and crease-weight attribute branches. These are visible parts of the construction graph; the screenshot does not expose every setting or the complete evaluation history.
-
 The selected wrangle displays `creaseweight` through red/green point color. That diagnostic makes the attribute distribution visible alongside the shell instead of judging only a shaded result.
 
 ![Assembled porous form in Houdini](media/images/houdini-volume-assembly.webp)
-![Form and network](media/images/form-network.webp)
+![Houdini shell viewport and network — Screenshot 2026-04-19 014613](media/images/houdini-shell-2026-04-19-014613.png)
 
 The object-level assembly retains separate `Holes`, `SCATTER` and VDB-related objects. The visible challenge is the transition between broad facial structure and fine openings: a cavity can be attractive locally while weakening the head’s silhouette as a whole.
 
 ## 02 / Checking depth, thickness and openings
 
-![Pale front study](media/images/clay-front.webp)
-![Interior shell study](media/images/clay-interior.png)
-![Brow and connecting ribs](media/images/geometry-brow.png)
+![Pale front study](media/images/white_mask_organic_front_cam.png)
 
-The front view checks facial readability. The interior view reveals the shell rather than just its outer skin. Close views of the brow expose the small bridges between cavities. The pale material makes these judgments possible before black reflections conceal much of the surface.
+The front view checks facial readability. The pale material makes this judgment possible before black reflections conceal much of the surface.
 
 [More geometric and clay views](docs/media-index.md#images)
 
@@ -62,14 +58,7 @@ The coating sequence already had a matching 136-frame movie. That movie was comp
 
 ## 04 / Adhesion and viscosity alternatives
 
-![Adhesion b](media/gif/adhesion-004b.gif)
-![Adhesion e, source labeled PERFECT](media/gif/adhesion-004e-perfect-label.gif)
-
-The `004b–004e` files keep the contact problem visible across several runs. Some produce concentrated streams; others spread into broader connected patches. They are useful comparisons of coverage and drainage, although the archive does not supply a controlled parameter log.
-
-[004b](media/video/adhesion-004b.mp4) · [004c](media/video/adhesion-004c.mp4) · [004d](media/video/adhesion-004d.mp4) · [004e](media/video/adhesion-004e.mp4) · [004e, “PERFECT” source label](media/video/adhesion-004e-perfect-label.mp4)
-
-`Density500_Viscosity8_Adhesion04x3` is preserved as a source label in the manifest. “PERFECT” and “best” record the author’s filenames, not an independently established optimum.
+[004c](media/video/adhesion-004c.mp4) · [004d](media/video/adhesion-004d.mp4) · [004e](media/video/adhesion-004e.mp4)
 
 ![Mercury viscosity alternative](media/gif/mercury-viscosity-2-alt.gif)
 
@@ -77,31 +66,19 @@ The `004b–004e` files keep the contact problem visible across several runs. So
 
 ## 05 / Close views and surface change
 
-![Bubbles close-up](media/gif/bubbles-closeup-2.gif)
-
-The three `Bubbles` clips inspect the contact surface at closer range. Large openings, fine pores and the overlying material compete at this distance; the close views reveal detail that a full-head coating preview cannot resolve.
-
-[Close-up 1](media/video/bubbles-closeup-1.mp4) · [close-up 2](media/video/bubbles-closeup-2.mp4) · [close-up 3](media/video/bubbles-closeup-3.mp4)
-
-![Surface transformation render](media/gif/surface-transformation-render.gif)
-
-A recovered 129-frame JPG batch shows the head’s visible surface changing over time. It is retained as a render test, with the Houdini watermark intact. Its generic `untitled` filename does not establish the exact solver or relationship to every final shot.
-
-[Surface transformation review](media/video/surface-transformation-render.mp4)
+[Close-up 1](media/video/bubbles-closeup-1.mp4) · [close-up 3](media/video/bubbles-closeup-3.mp4)
 
 ## 06 / Rough captures and limits of review
 
-![Rough viscosity capture](media/gif/rough-viscosity-by-8.gif)
-
 These `.pic` sequences were recovered with Houdini’s image converter. Much of the head sits outside the right edge and the grid dominates the frame. They preserve an imperfect review setup: useful evidence that the process was not only polished shots, but insufficient for judging the whole liquid surface.
 
-[Viscosity by 8](media/video/rough-viscosity-by-8.mp4) · [viscosity by 12](media/video/rough-viscosity-by-12.mp4) · [adhesion capture](media/video/rough-adhesion-capture.mp4) · [vorticity / droplets](media/video/rough-vorticity-droplets.mp4) · [rough playbook](media/video/rough-playbook-capture.mp4)
-
-The corresponding `Viscosity_By_8.avi` is unreadable. The available numbered `.pic` frames provide a replacement review copy. Poor framing is visible; no unsupported simulation-failure diagnosis is attached to it.
+[Viscosity by 12](media/video/rough-viscosity-by-12.mp4) · [adhesion capture](media/video/rough-adhesion-capture.mp4) · [vorticity / droplets](media/video/rough-vorticity-droplets.mp4) · [rough playbook](media/video/rough-playbook-capture.mp4)
 
 For clearer raw viewport comparisons: [adhesion 001](media/video/adhesion-viewport-001.mp4), [002](media/video/adhesion-viewport-002.mp4), [003](media/video/adhesion-viewport-003.mp4).
 
 ## 07 / From construction to final image
+
+![Substance material study — Screenshot 2022-10-16 134815](media/images/substance-material-2022-10-16-134815.jpg)
 
 ![Dark head detail](media/images/final-detail.png)
 ![Final head motion](media/gif/final-organic-head.gif)

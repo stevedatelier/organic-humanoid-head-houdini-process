@@ -4,28 +4,6 @@
   "assets": [
     {
       "repo": "head",
-      "name": "clay-front",
-      "kind": "image",
-      "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\clay-front.png",
-      "output": "media/images/clay-front.webp",
-      "processing": "WebP quality 92; existing delivery dimensions retained; source master untouched.",
-      "source_bytes": 7497718,
-      "output_bytes": 245426,
-      "sha256": "7081f52883638f8ce9890d93291f5badc8c0195da664744d40d14551d2923b1c"
-    },
-    {
-      "repo": "head",
-      "name": "clay-interior",
-      "kind": "image",
-      "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\clay-interior.png",
-      "output": "media/images/clay-interior.png",
-      "processing": "copied unchanged",
-      "source_bytes": 548287,
-      "output_bytes": 548287,
-      "sha256": "605424971b749f295a5571d4e2b2bf50c6c60ac194439dc09103b1f1e50c0d87"
-    },
-    {
-      "repo": "head",
       "name": "clay-profile",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\clay-profile.png",
@@ -114,17 +92,6 @@
     },
     {
       "repo": "head",
-      "name": "form-network",
-      "kind": "image",
-      "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\form-network.png",
-      "output": "media/images/form-network.webp",
-      "processing": "WebP quality 96; existing delivery dimensions retained; source master untouched.",
-      "source_bytes": 4810993,
-      "output_bytes": 382646,
-      "sha256": "d87c7584a8a4f7578a4178bc220153cb6e60e549a92741663e4919121c6413d5"
-    },
-    {
-      "repo": "head",
       "name": "form-shaded",
       "kind": "image",
       "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\form-shaded.png",
@@ -144,17 +111,6 @@
       "source_bytes": 801891,
       "output_bytes": 801891,
       "sha256": "505896987d164db19ef5c573da9dc2350c1c2fe7695b754374c7f00cd6659595"
-    },
-    {
-      "repo": "head",
-      "name": "geometry-brow",
-      "kind": "image",
-      "source": "D:\\Apps\\MaisonDatelier\\public\\Organic-Humanoid-Head-assets\\geometry-brow.png",
-      "output": "media/images/geometry-brow.png",
-      "processing": "copied unchanged",
-      "source_bytes": 258732,
-      "output_bytes": 258732,
-      "sha256": "81d6e0654ba7d6abc488ff9b4af1126923b0cfafd5075d179bd58a61313e23f1"
     },
     {
       "repo": "head",
@@ -5096,34 +5052,6 @@
     },
     {
       "repo": "organic-humanoid-head-process",
-      "name": "adhesion-004b",
-      "kind": "gif-preview",
-      "source": "media/video/adhesion-004b.mp4",
-      "output": "media/gif/adhesion-004b.gif",
-      "start_seconds": 0,
-      "maximum_duration_seconds": 5,
-      "fps": 12,
-      "width": 640,
-      "output_bytes": 432921,
-      "processing": "128-color palette, 640px looping excerpt of the review MP4",
-      "sha256": "a627bf1c15a8ca0967766f68c16b451a371c22b51fc821ad9578091f1ae7fbd4"
-    },
-    {
-      "repo": "organic-humanoid-head-process",
-      "name": "adhesion-004e-perfect-label",
-      "kind": "gif-preview",
-      "source": "media/video/adhesion-004e-perfect-label.mp4",
-      "output": "media/gif/adhesion-004e-perfect-label.gif",
-      "start_seconds": 0,
-      "maximum_duration_seconds": 5,
-      "fps": 12,
-      "width": 640,
-      "output_bytes": 355903,
-      "processing": "128-color palette, 640px looping excerpt of the review MP4",
-      "sha256": "9885b6e597555bcb1f125264d966f41efe99acceaba884a719528cecbde714da"
-    },
-    {
-      "repo": "organic-humanoid-head-process",
       "name": "mercury-viscosity-2-alt",
       "kind": "gif-preview",
       "source": "media/video/mercury-viscosity-2-alt.mp4",
@@ -5138,48 +5066,6 @@
     },
     {
       "repo": "organic-humanoid-head-process",
-      "name": "bubbles-closeup-2",
-      "kind": "gif-preview",
-      "source": "media/video/bubbles-closeup-2.mp4",
-      "output": "media/gif/bubbles-closeup-2.gif",
-      "start_seconds": 0,
-      "maximum_duration_seconds": 5,
-      "fps": 12,
-      "width": 640,
-      "output_bytes": 559673,
-      "processing": "128-color palette, 640px looping excerpt of the review MP4",
-      "sha256": "62b00b73bd3e438d922a2371e8320852e6fcac5938fd879bcbaf4d595969820e"
-    },
-    {
-      "repo": "organic-humanoid-head-process",
-      "name": "surface-transformation-render",
-      "kind": "gif-preview",
-      "source": "media/video/surface-transformation-render.mp4",
-      "output": "media/gif/surface-transformation-render.gif",
-      "start_seconds": 0,
-      "maximum_duration_seconds": 5,
-      "fps": 12,
-      "width": 640,
-      "output_bytes": 1201783,
-      "processing": "128-color palette, 640px looping excerpt of the review MP4",
-      "sha256": "f60d8b3d6c608f174f89a2a4fa3be4c127cb81e5d55a6ee4d94bf2f3aed9099e"
-    },
-    {
-      "repo": "organic-humanoid-head-process",
-      "name": "rough-viscosity-by-8",
-      "kind": "gif-preview",
-      "source": "media/video/rough-viscosity-by-8.mp4",
-      "output": "media/gif/rough-viscosity-by-8.gif",
-      "start_seconds": 0,
-      "maximum_duration_seconds": 5,
-      "fps": 12,
-      "width": 640,
-      "output_bytes": 338651,
-      "processing": "128-color palette, 640px looping excerpt of the review MP4",
-      "sha256": "828a7520d14072593796edd74f1e100ed98a3303e8cf8edd8d2784f89787ad89"
-    },
-    {
-      "repo": "organic-humanoid-head-process",
       "name": "final-organic-head",
       "kind": "gif-preview",
       "source": "media/video/final-organic-head.mp4",
@@ -5191,6 +5077,36 @@
       "output_bytes": 3687240,
       "processing": "128-color palette, 640px looping excerpt of the review MP4",
       "sha256": "2754b457efbd69faf23194e6b0b993298dadda4b49975f2d817a095f84700db5"
+    },
+    {
+      "repo": "head",
+      "name": "white_mask_organic_front_cam",
+      "kind": "image",
+      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\white_mask_organic_front_cam.png",
+      "output": "media/images/white_mask_organic_front_cam.png",
+      "source_bytes": 5978675,
+      "output_bytes": 5978675,
+      "processing": "Copied unchanged from specified source"
+    },
+    {
+      "repo": "head",
+      "name": "houdini-shell-2026-04-19-014613",
+      "kind": "image",
+      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\houdini screenshots\\Screenshot 2026-04-19 014613.png",
+      "output": "media/images/houdini-shell-2026-04-19-014613.png",
+      "source_bytes": 4926060,
+      "output_bytes": 4926060,
+      "processing": "Copied unchanged from specified source"
+    },
+    {
+      "repo": "head",
+      "name": "substance-material-2022-10-16-134815",
+      "kind": "image",
+      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\substance_Screenshot\\Screenshot 2022-10-16 134815.jpg",
+      "output": "media/images/substance-material-2022-10-16-134815.jpg",
+      "source_bytes": 391313,
+      "output_bytes": 391313,
+      "processing": "Copied unchanged from specified source"
     }
   ]
 }

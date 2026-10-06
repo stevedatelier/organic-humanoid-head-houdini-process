@@ -44,20 +44,13 @@ All media below is stored in this private repository. MP4 links open the file pa
 | Preview | Playback |
 |---|---|
 | [coating-viscosity-2-8](../media/gif/coating-viscosity-2-8.gif) | 12 fps; up to 5 seconds |
-| [adhesion-004b](../media/gif/adhesion-004b.gif) | 12 fps; up to 5 seconds |
-| [adhesion-004e-perfect-label](../media/gif/adhesion-004e-perfect-label.gif) | 12 fps; up to 5 seconds |
 | [mercury-viscosity-2-alt](../media/gif/mercury-viscosity-2-alt.gif) | 12 fps; up to 5 seconds |
-| [bubbles-closeup-2](../media/gif/bubbles-closeup-2.gif) | 12 fps; up to 5 seconds |
-| [surface-transformation-render](../media/gif/surface-transformation-render.gif) | 12 fps; up to 5 seconds |
-| [rough-viscosity-by-8](../media/gif/rough-viscosity-by-8.gif) | 12 fps; up to 5 seconds |
 | [final-organic-head](../media/gif/final-organic-head.gif) | 12 fps; up to 5 seconds |
 
 ## Images
 
 | Image | Source |
 |---|---|
-| [clay-front](../media/images/clay-front.webp) | `clay-front.png` |
-| [clay-interior](../media/images/clay-interior.png) | `clay-interior.png` |
 | [clay-profile](../media/images/clay-profile.png) | `clay-profile.png` |
 | [clay-resting-angle](../media/images/clay-resting-angle.webp) | `clay-resting-angle.png` |
 | [clay-resting-front](../media/images/clay-resting-front.webp) | `clay-resting-front.png` |
@@ -66,10 +59,8 @@ All media below is stored in this private repository. MP4 links open the file pa
 | [final-head](../media/images/final-head.png) | `final-head.png` |
 | [final-partial](../media/images/final-partial.png) | `final-partial.png` |
 | [form-houdini](../media/images/form-houdini.webp) | `form-houdini.png` |
-| [form-network](../media/images/form-network.webp) | `form-network.png` |
 | [form-shaded](../media/images/form-shaded.webp) | `form-shaded.png` |
 | [form-viewport](../media/images/form-viewport.png) | `form-viewport.png` |
-| [geometry-brow](../media/images/geometry-brow.png) | `geometry-brow.png` |
 | [geometry-front](../media/images/geometry-front.png) | `geometry-front.png` |
 | [geometry-profile](../media/images/geometry-profile.webp) | `geometry-profile.png` |
 | [geometry-shell](../media/images/geometry-shell.png) | `geometry-shell.png` |
@@ -84,3 +75,9 @@ All media below is stored in this private repository. MP4 links open the file pa
 | [reference-porous-structure](../media/images/reference-porous-structure.jpg) | `c7334632abbf40ce4c7e9c8b8be9a52b.jpg` |
 
 Exact source paths, processing details, full sequence order and checksums are recorded in [media-manifest.json](media-manifest.json).
+
+## Added images
+
+- [white_mask_organic_front_cam](../media/images/white_mask_organic_front_cam.png)
+- [houdini-shell-2026-04-19-014613](../media/images/houdini-shell-2026-04-19-014613.png)
+- [substance-material-2022-10-16-134815](../media/images/substance-material-2022-10-16-134815.jpg)

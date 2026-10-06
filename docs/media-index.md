@@ -2,7 +2,7 @@
 
 [Back to the case study](../README.md)
 
-All media below is stored in this private repository. MP4 links open the file page; use its playback or download control. GIFs are excerpts, and still-comparison films are explicitly labeled.
+All media below is stored in this repository. MP4 links open the file page; use its playback or download control. GIFs are excerpts, and still-comparison films are explicitly labeled.
 
 ## Videos
 

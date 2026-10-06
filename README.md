@@ -1,6 +1,6 @@
 # Organic Humanoid Head / MetalMask
 
-**Procedural modeling and fluid tests in Houdini. Maison d’Atelier.**
+**Procedural modeling and fluid simulation in Houdini SideFX. Maison d’Atelier.**
 
 ![Houdini crease-weight inspection](media/images/houdini-crease-weights.webp)
 
@@ -25,7 +25,7 @@ The modeling question is how far to open up the form before the face loses its p
 
 The light does not need to explain the whole face. Keeping part of it unresolved gives the portrait its unease.
 
-## 01 / Procedural Modeling
+## 01 / Procedural Modeling in Houdini
 
 A point wrangle for checking `creaseweight`, transcribed from the project capture:
 
@@ -50,7 +50,7 @@ The portrait has to work in clay. Shading can add character, but the proportions
 
 <a href="docs/media-index.md#images">More geometric and clay views</a>
 
-## 03 / Fluid Simulation
+## 03 / Fluid Simulation in Houdini
 
 ![Full coating experiment](media/gif/coating-viscosity-2-8.gif)
 

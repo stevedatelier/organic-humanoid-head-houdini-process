@@ -73,7 +73,6 @@ For clearer raw viewport comparisons: [adhesion 001](media/video/adhesion-viewpo
 ![Substance material study — Screenshot 2022-10-16 134815](media/images/substance-material-2022-10-16-134815.jpg)
 
 ![Dark head detail](media/images/final-detail.png)
-![Final head motion](media/gif/final-organic-head.gif)
 
 The dark render carries the same cavities and connecting ribs with small highlights. It is deliberately less explicit than the clay studies: geometry that was inspected openly during development becomes partially concealed in the final image.
 

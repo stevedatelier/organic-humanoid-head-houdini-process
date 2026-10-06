@@ -40,9 +40,9 @@ The object-level assembly retains separate `Holes`, `SCATTER` and VDB-related ob
 
 ## 02 / Checking depth, thickness and openings
 
-![Pale front study](media/images/white_mask_organic_front_cam.png)
+![Pale skull study](media/images/skull_view_1.png)
 
-The front view checks facial readability. The pale material makes this judgment possible before black reflections conceal much of the surface.
+The pale skull view checks facial readability. The pale material makes this judgment possible before black reflections conceal much of the surface.
 
 [More geometric and clay views](docs/media-index.md#images)
 

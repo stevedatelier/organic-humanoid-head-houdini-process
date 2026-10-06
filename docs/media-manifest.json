@@ -5080,16 +5080,6 @@
     },
     {
       "repo": "head",
-      "name": "white_mask_organic_front_cam",
-      "kind": "image",
-      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\white_mask_organic_front_cam.png",
-      "output": "media/images/white_mask_organic_front_cam.png",
-      "source_bytes": 5978675,
-      "output_bytes": 5978675,
-      "processing": "Copied unchanged from specified source"
-    },
-    {
-      "repo": "head",
       "name": "houdini-shell-2026-04-19-014613",
       "kind": "image",
       "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\houdini screenshots\\Screenshot 2026-04-19 014613.png",
@@ -5107,6 +5097,16 @@
       "source_bytes": 391313,
       "output_bytes": 391313,
       "processing": "Copied unchanged from specified source"
+    },
+    {
+      "repo": "head",
+      "name": "skull_view_1",
+      "kind": "image",
+      "source": "D:\\Apps\\MaisonDatelier\\assets\\images\\Metalmask\\skull_view_1.png",
+      "output": "media/images/skull_view_1.png",
+      "source_bytes": 7497718,
+      "output_bytes": 7497718,
+      "processing": "Copied unchanged"
     }
   ]
 }

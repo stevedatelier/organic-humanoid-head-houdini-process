@@ -78,6 +78,7 @@ Exact source paths, processing details, full sequence order and checksums are re
 
 ## Added images
 
-- [white_mask_organic_front_cam](../media/images/white_mask_organic_front_cam.png)
 - [houdini-shell-2026-04-19-014613](../media/images/houdini-shell-2026-04-19-014613.png)
 - [substance-material-2022-10-16-134815](../media/images/substance-material-2022-10-16-134815.jpg)
+
+- [skull_view_1](../media/images/skull_view_1.png)

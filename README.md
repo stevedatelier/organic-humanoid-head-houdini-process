@@ -94,3 +94,15 @@ The portrait clip records the related dense, glossy surface treatment shown on t
 - [Complete media index](docs/media-index.md) · [source and processing manifest](docs/media-manifest.json) · [audit notes](docs/audit-notes.md)
 - New numbered-sequence reviews use 24 fps, inferred from adjacent project playblasts. Original movie frame rates, including 25 fps adhesion clips, are retained.
 - GIFs are preview excerpts; MP4s preserve the full selected clips. The chronology is organized by technical question rather than pretending file timestamps reconstruct production history.
+
+---
+
+![Portfolio — metalmask cover](media/portfolio/metalmask-cover.png)
+
+![Portfolio — metalmask gallery](media/portfolio/metalmask-gallery.png)
+
+![Portfolio — metalmask comparison](media/portfolio/metalmask-comparison.png)
+
+![Portfolio — organic head cover](media/portfolio/organic-head-cover.png)
+
+![Portfolio — organic head gallery](media/portfolio/organic-head-gallery.png)

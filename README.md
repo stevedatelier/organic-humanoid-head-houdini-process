@@ -56,19 +56,11 @@ The blue fluid distinguishes the moving layer from the porous collider. In the c
 
 The coating sequence already had a matching 136-frame movie. That movie was compressed for delivery; no second movie was generated from its JPG frames.
 
-## 04 / Adhesion and viscosity alternatives
-
-[004c](media/video/adhesion-004c.mp4) · [004d](media/video/adhesion-004d.mp4) · [004e](media/video/adhesion-004e.mp4)
-
-![Mercury viscosity alternative](media/gif/mercury-viscosity-2-alt.gif)
-
-[Mercury viscosity 1](media/video/mercury-viscosity-1.mp4) · [alternative 2](media/video/mercury-viscosity-2-alt.mp4) · [random viscosity 2–8](media/video/random-viscosity-2-8.mp4) · [viscosity 2–4](media/video/viscosity-2-4.mp4) · [transition test](media/video/random-viscosity-transition.mp4)
-
-## 05 / Close views and surface change
+## 04 / Close views and surface change
 
 [Close-up 1](media/video/bubbles-closeup-1.mp4) · [close-up 3](media/video/bubbles-closeup-3.mp4)
 
-## 06 / Rough captures and limits of review
+## 05 / Rough captures and limits of review
 
 These `.pic` sequences were recovered with Houdini’s image converter. Much of the head sits outside the right edge and the grid dominates the frame. They preserve an imperfect review setup: useful evidence that the process was not only polished shots, but insufficient for judging the whole liquid surface.
 
@@ -76,7 +68,7 @@ These `.pic` sequences were recovered with Houdini’s image converter. Much of 
 
 For clearer raw viewport comparisons: [adhesion 001](media/video/adhesion-viewport-001.mp4), [002](media/video/adhesion-viewport-002.mp4), [003](media/video/adhesion-viewport-003.mp4).
 
-## 07 / From construction to final image
+## 06 / From construction to final image
 
 ![Substance material study — Screenshot 2022-10-16 134815](media/images/substance-material-2022-10-16-134815.jpg)
 

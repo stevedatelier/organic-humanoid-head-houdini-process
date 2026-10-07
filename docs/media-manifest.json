@@ -5107,6 +5107,19 @@
       "source_bytes": 7497718,
       "output_bytes": 3895756,
       "processing": "Lossless WebP; original delivery dimensions and decoded pixels preserved."
+    },
+    {
+      "repo": "head",
+      "name": "organic-head-cover",
+      "kind": "image",
+      "source": "E:\\Pictures\\Material_shredding\\Screenshot 2024-07-21 164307.png",
+      "output": "media/images/organic-head-cover.webp",
+      "processing": "Lossless WebP; original dimensions and decoded pixels preserved. Selected by the artist as the project cover.",
+      "source_bytes": 91751,
+      "output_bytes": 39624,
+      "width": 1276,
+      "height": 715,
+      "sha256": "52591e990092e7288157050c9ff25f5f175bbe13a9d4fbda7972d57309b7970e"
     }
   ]
 }

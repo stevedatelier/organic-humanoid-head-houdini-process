@@ -2,7 +2,7 @@
 
 **Procedural modeling and fluid simulation in Houdini SideFX. Maison d’Atelier.**
 
-![Houdini crease-weight inspection](media/images/houdini-crease-weights.webp)
+![Organic Humanoid Head — dark porous shell](media/images/organic-head-cover.webp)
 
 The face is the anchor. Porous geometry and viscous motion can push it somewhere unfamiliar, as long as the portrait still holds your attention.
 
@@ -36,6 +36,8 @@ A point wrangle for checking `creaseweight`, transcribed from the project captur
 ```
 
 Weights from 0 to 1 read as green through red. A quick viewport check before judging the surface.
+
+![Houdini crease-weight inspection](media/images/houdini-crease-weights.webp)
 
 ![Assembled porous form in Houdini](media/images/houdini-volume-assembly.webp)
 ![Houdini shell viewport and network — Screenshot 2026-04-19 014613](media/images/houdini-shell-2026-04-19-014613.webp)

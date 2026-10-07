@@ -84,3 +84,7 @@ Exact source paths, processing details, full sequence order and checksums are re
 - [skull_view_1](../media/images/skull_view_1.webp)
 
 Image sizes and encoding decisions after optimization: [image optimization audit](image-optimization.json). Original source files are unchanged.
+
+## Selected cover
+
+[Organic Humanoid Head — dark porous shell](../media/images/organic-head-cover.webp). Artist-selected cover from `Screenshot 2024-07-21 164307.png`, delivered as lossless WebP.

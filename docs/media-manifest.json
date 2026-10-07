@@ -5120,6 +5120,39 @@
       "width": 1276,
       "height": 715,
       "sha256": "52591e990092e7288157050c9ff25f5f175bbe13a9d4fbda7972d57309b7970e"
+    },
+    {
+      "name": "metalmask-best",
+      "kind": "gif-preview",
+      "source": "media/video/metalmask-best.mp4",
+      "output": "media/gif/metalmask-best.gif",
+      "duration_seconds": 10,
+      "fps": 16,
+      "width": 960,
+      "processing": "Full-sequence looping GIF; Lanczos resize and optimized palette.",
+      "output_bytes": 10193036,
+      "sha256": "a4a9106b6c2fb752a44524c9c98ac57f1e61c3700596ce2168b670921787ab79"
+    },
+    {
+      "name": "metalmask-best",
+      "kind": "existing-video",
+      "source": "D:\\SELF\\WORKING_FILES\\REEL01_Metamask\\REEL01_ANIMATION\\A_PROJ\\PROCESS\\final_process_House-of_fireborn\\Best.mov",
+      "output": "media/video/metalmask-best.mp4",
+      "processing": "H.264 CRF18, original 2080x1080 resolution and 24 fps, full 10 seconds, yuv420p, faststart. Original untouched.",
+      "source_sha256": "bba3471475a0a64b6a0ffaf9778ba022b8f639b7b6412d5f5e1f20ff62b7dabd",
+      "output_bytes": 2293433
+    },
+    {
+      "name": "immersion",
+      "kind": "gif-preview",
+      "source": "media/video/immersion.mp4",
+      "output": "media/gif/immersion.gif",
+      "duration_seconds": 1.25,
+      "fps": 16,
+      "width": 960,
+      "processing": "Full-sequence looping GIF; Lanczos resize and optimized palette.",
+      "output_bytes": 1744152,
+      "sha256": "acc90d56d553217f745f61302e67190031e1e01b0682cb4dd1010bf400a41ce9"
     }
   ]
 }

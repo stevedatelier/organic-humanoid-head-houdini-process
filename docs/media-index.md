@@ -148,3 +148,8 @@ Image sizes and encoding decisions after optimization: [image optimization audit
 
 [Organic Humanoid Head — dark porous shell](../media/images/organic-head-cover.webp). Rendering study from `Screenshot 2024-07-21 164307.png`, delivered as lossless WebP.
 
+
+## Coating and immersion previews
+
+- [Coating study GIF](../media/gif/metalmask-best.gif) · [Full-resolution movie](../media/video/metalmask-best.mp4)
+- [Immersion GIF](../media/gif/immersion.gif) · [Movie](../media/video/immersion.mp4)

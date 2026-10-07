@@ -68,6 +68,12 @@ The pause before the drip is the interesting part. Viscosity and contact determi
 
 <a href="media/video/coating-viscosity-2-8.mp4">Full coating clip</a> · <a href="media/video/viscous-mask.mp4">viscous mask</a> · <a href="media/video/driplets.mp4">driplets</a> · <a href="media/video/immersion.mp4">immersion</a>
 
+![Coating study](media/gif/metalmask-best.gif)
+
+<a href="media/video/metalmask-best.mp4">Coating study movie</a>
+
+![Immersion](media/gif/immersion.gif)
+
 ## 04 / Surface Tests
 
 <a href="media/video/bubbles-closeup-1.mp4">Close-up 1</a> · <a href="media/video/bubbles-closeup-3.mp4">close-up 3</a>
